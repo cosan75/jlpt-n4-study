@@ -1,0 +1,7 @@
+{
+  "tool_name": "mcp__terminal__stop_terminal_tab",
+  "tool_input_preview": "{\"tab_id\":\"c2\",\"close\":true}",
+  "error": "The user has typed in tab \"c2\" since you opened it, so what runs there may be theirs and nothing was sent to it; ask them to stop or close it.",
+  "timestamp": "2026-10-31T06:09:54.749Z",
+  "retry_count": 1
+}

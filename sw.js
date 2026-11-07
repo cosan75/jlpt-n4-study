@@ -1,6 +1,6 @@
 // 오프라인 지원: 페이지는 항상 새 버전을 먼저 받고(인터넷이 없으면 저장본),
 // 음성·아이콘은 한 번 받으면 저장해 두고 다시 쓴다. 번역은 인터넷이 필요하다.
-const CACHE = 'n4-v4';
+const CACHE = 'n4-v5';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
